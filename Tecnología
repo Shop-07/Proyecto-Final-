@@ -1,0 +1,375 @@
+<DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tecnologías </title>
+    <p>Realizado por: <strong>MARIA SOFIA MARTIN CANO</strong></p>
+</header>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #0288d1;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        nav {
+            background: #2c3e50;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+        .container {
+            display: flex;
+        }
+        aside {
+            width: 25%;
+            background: #34495e;
+            color: white;
+            padding: 15px;
+            min-height: 500px;
+        }
+        section {
+            width: 75%;
+            padding: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid black;
+            text-align: center;
+            padding: 8px;
+        }
+        img {
+            width: 100%;
+            max-width: 500px;
+            display: block;
+            margin: 10px auto;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Tecnología - Proyecto Final</h1>
+</header>
+
+<nav>
+    <a href="#tema1">Historia</a>
+    <a href="#tema2">Computadoras</a>
+    <a href="#tema3">Software</a>
+    <a href="#tema4">IA</a>
+    <a href="#tema5">Redes</a>
+    <a href="#tema6">Medicina</a>
+    <a href="#tema7">Robótica</a>
+    <a href="#tema8">Realidad Virtual</a>
+    <a href="#tema9">Energías Renovables</a>
+    <a href="#tema10">Futuro</a>
+</nav>
+
+<div class="container">
+    <aside>
+        <h3>Menú</h3>
+        <ul>
+            <li><a href="#tema1" style="color: white;">Historia de la Tecnología</a></li>
+            <li><a href="#tema2" style="color: white;">Computadoras y Hardware</a></li>
+            <li><a href="#tema3" style="color: white;">Software y Programación</a></li>
+            <li><a href="#tema4" style="color: white;">Inteligencia Artificial</a></li>
+            <li><a href="#tema5" style="color: white;">Redes y Seguridad</a></li>
+            <li><a href="#tema6" style="color: white;">Tecnología en la Medicina</a></li>
+            <li><a href="#tema7" style="color: white;">Robótica y Automatización</a></li>
+            <li><a href="#tema8" style="color: white;">Realidad Virtual y Aumentada</a></li>
+            <li><a href="#tema9" style="color: white;">Energías Renovables</a></li>
+            <li><a href="#tema10" style="color: white;">El Futuro de la Tecnología</a></li>
+        </ul>
+    </aside>
+
+    <section>
+        <h2 id="tema1">Historia de la Tecnología</h2>
+        <p>La evolución de la tecnología ha marcado la historia de la humanidad
+La historia de la tecnología es tan antigua como la humanidad misma. Comprende el desarrollo de herramientas y técnicas que han permitido a los seres humanos transformar el mundo. 
+Orígenes
+Los primeros artefactos tecnológicos fueron las hachas de mano y las lanzas. 
+El descubrimiento del fuego fue uno de los primeros avances tecnológicos. 
+La creación de herramientas básicas fue fundamental para la supervivencia y el desarrollo social. 
+La invención de la rueda alrededor del 3500 a.C. en Mesopotamia optimizó el transporte y la agricultura. 
+Desarrollo
+La Edad de Piedra, el Neolítico y la Edad de los Metales son épocas de la historia del hombre que se caracterizan por el uso de distintos materiales. 
+La revolución industrial diversificó los usos de las fuentes de energía. 
+El concepto de "tecnología" se conformó durante el siglo XIX. 
+Johann Beckmann fue el primero en enseñar tecnología, y escribió sobre ella como una materia académica. 
+Innovaciones tecnológicas 
+La imprenta (1400)
+El teléfono (1876)
+El control remoto (1898)
+El avión (1903)
+El ordenador (1938)
+El transistor y la electrónica (1947)
+El robot industrial (1954)
+El microchip (1958)
+        ...</p>
+        <img src="https://via.placeholder.com/500" alt="Historia de la tecnología">
+<iframe src="https://www.youtube.com/embed/VIDEO_ID_1" allowfullscreen></iframe>
+
+        <table>
+            <tr>
+                <th>Época</th>
+                <th>Avance Tecnológico</th>
+            </tr>
+            <tr>
+                <td>Edad de Piedra</td>
+                <td>Herramientas de piedra</td>
+            </tr>
+            <tr>
+                <td>Revolución Industrial</td>
+                <td>Máquinas de vapor</td>
+            </tr>
+            <tr>
+                <td>Siglo XXI</td>
+                <td>Inteligencia Artificial</td>
+            </tr>
+        </table>
+
+        <h2 id="tema2">Computadoras y Hardware</h2>
+        <p> El hardware es la parte física de una computadora, es decir, todo lo que se puede tocar. Está compuesto por componentes eléctricos, electrónicos, electromecánicos y mecánicos. 
+Ejemplos de hardware 
+Teclado, Mouse, Monitor, Impresora, Cables, Tarjetas electrónicas, Carcasa, Disco duro, Memorias, Bocinas.
+Componentes básicos de hardware Unidad central de proceso (CPU), Monitor, Teclado. 
+Arquitectura básica de una computadora 
+La unidad central, los dispositivos periféricos de entrada, de salida y de entrada/salida
+Los cables, conexiones y puertos que permiten la interacción de todos ellos
+Hardware libre 
+Es aquel que puede ser modificado y utilizado libremente
+Sus especificaciones y diagramas son de acceso público
+El uso del hardware libre supone compartir la información de los desarrollos que se hayan basado en él
+Hardware gráfico 
+Lo constituyen básicamente las tarjetas gráficas
+Cuentan con su propia memoria y unidad de procesamiento
+            ...</p>
+        <img src="https://via.placeholder.com/500" alt="Computadoras y Hardware">
+<iframe src="https://www.youtube.com/embed/VIDEO_ID_2" allowfullscreen></iframe>
+
+        <table>
+            <tr>
+                <th>Componente</th>
+                <th>Función</th>
+            </tr>
+            <tr>
+                <td>CPU</td>
+                <td>Procesa información</td>
+            </tr>
+            <tr>
+                <td>RAM</td>
+                <td>Memoria temporal</td>
+            </tr>
+        </table>
+
+        <h2 id="tema3">Software y Programación</h2>
+        <p>El software permite que los dispositivos funcionen correctamente
+El software de programación es un conjunto de herramientas que permiten crear, mantener y optimizar programas y aplicaciones informáticas. Los programadores usan este software para desarrollar programas en diferentes lenguajes de programación. 
+Componentes del software de programación 
+Editores de texto
+Compiladores
+Intérpretes
+Enlazadores
+Depuradores
+Entornos de desarrollo integrados (IDE)
+Ventajas del software de programación 
+Automatiza tareas y procesos
+Aumenta la eficiencia
+Reduce los errores humanos
+Ayuda a resolver problemas
+Mejora procesos
+Innovar productos
+Optimiza recursos
+Satisface necesidades
+Ejemplos de software de programación 
+Adobe Dreamweaver, Lazarus, Delphi, Eclipse, IBM COBOL, PyCharm, Netbeans IDE, Genexus, CodeLite, Atom.
+Proceso de programación
+El proceso de programación consiste en crear instrucciones comprensibles para las computadoras. A través de este proceso se crean programas de aplicación, como procesadores de texto y navegadores web, y software de sistema, como sistemas operativos y bases de datos. 
+        ...</p>
+        <img src="https://via.placeholder.com/500" alt="Software y Programación">
+<iframe src="https://www.youtube.com/embed/VIDEO_ID_3" allowfullscreen></iframe>
+
+        <table>
+            <tr>
+                <th>Lenguaje</th>
+                <th>Usos</th>
+            </tr>
+            <tr>
+                <td>Python</td>
+                <td>IA y desarrollo web</td>
+            </tr>
+            <tr>
+                <td>C++</td>
+                <td>Desarrollo de software</td>
+            </tr>
+        </table>
+        
+        <h2 id="tema4">Inteligencia Artificial</h2>
+        <p>La IA está revolucionando sectores como la medicina, la educación y la industria
+La inteligencia artificial (IA) es una rama de la ciencia que se encarga de crear máquinas que pueden aprender, razonar y actuar de manera similar a los humanos. 
+¿Qué hace la IA? 
+Analiza el entorno
+Realiza acciones de manera autónoma
+Resuelve problemas
+Planifica
+Aprende
+Procesa lenguajes naturales
+Detecta características en imágenes
+¿Cómo se usa la IA?
+En el retail, la IA ofrece recomendaciones personalizadas y analiza opciones de compra 
+En el ámbito empresarial, la IA se usa para analíticas de datos, predicciones, categorización de objetos, procesamiento del lenguaje natural, recomendaciones, y más 
+¿Cuáles son sus objetivos? 
+Imitar el razonamiento paso a paso que los humanos usan para resolver acertijos o hacer deducciones lógicas
+Establecer metas y alcanzarlas
+Mejorar automáticamente a través de la experiencia
+¿Quién acuñó el término?
+John McCarthy acuñó el término "inteligencia artificial" en 1956 en la primera conferencia de IA en el Dartmouth College. 
+        ...</p>
+        <img src="https://via.placeholder.com/500" alt="Inteligencia Artificial">
+<iframe src="https://www.youtube.com/embed/VIDEO_ID_4" allowfullscreen></iframe>
+        <h2 id="tema5">Redes y Seguridad Informática</h2>
+        <p>Las redes permiten la comunicación global, pero también presentan riesgos de seguridad
+Las redes y la seguridad informática son áreas que se enfocan en la protección de los recursos de cómputo. La seguridad de red es un conjunto de políticas y prácticas que se implementan para evitar el acceso no autorizado a los recursos de una red. 
+Redes informáticas
+Permiten la comunicación y el intercambio de información entre usuarios 
+Pueden ser privadas, como las de una empresa, o públicas 
+Seguridad informática 
+Protege los recursos de cómputo de ataques y fallas
+Incluye anti-malware, firewalls, detección de intrusiones y otras protecciones
+Se aplica a redes de computadoras, tanto públicas como privadas
+Objetivos de la seguridad de red 
+Proteger la confidencialidad, disponibilidad e integridad de los recursos de cómputo
+Evitar que ataques maliciosos accedan a redes internas
+Proteger los datos, sistemas y dispositivos donde se almacenan
+Soluciones de seguridad de red 
+Control de acceso
+Software antivirus
+Seguridad de aplicaciones
+Análisis de red
+Firewalls
+Cifrado VPN
+Segmentación de red
+Soluciones de seguridad en la nube
+        ...</p>
+        <img src="https://via.placeholder.com/500" alt="Redes y Seguridad Informática">
+        <iframe src="https://www.youtube.com/embed/VIDEO_ID_5" allowfullscreen></iframe>
+
+        <h2 id="tema6">Tecnología en la Medicina</h2>
+        <p>Desde la telemedicina hasta la cirugía robótica, la tecnología ha revolucionado la salud
+La tecnología médica es la aplicación de la tecnología en la medicina, destinada a ayudar en el diagnóstico y tratamiento de enfermedades, el seguimiento del paciente, las operaciones quirúrgicas, la ejecución de planes terapéuticos y otros cuidados del paciente.Ejemplos de tecnología médica 
+Medicamentos
+Equipo médico, como máquinas de rayos X
+Procedimientos médicos y quirúrgicos
+Sistemas de administración de cuidados de la salud
+Telemedicina
+Inteligencia Artificial
+Blockchain
+Realidad aumentada
+Beneficios de la tecnología médica 
+Mejora la eficiencia de los sistemas de salud
+Facilita el acceso a la atención médica
+Mejora la calidad de la atención médica
+Permite el desarrollo de nuevas terapias
+Permite el monitoreo de embarazos
+Permite el diagnóstico de dolores de cabeza
+Profesionales de la tecnología médica
+Tecnólogos médicos, que se encargan de garantizar el correcto uso y mantenimiento de los sistemas tecnológicos 
+Profesionales de la salud que utilizan la tecnología médica para identificar, prevenir, tratar, y supervisar enfermedades 
+        ...</p>
+        <img src="https://via.placeholder.com/500" alt="Tecnología en la Medicina">
+
+        <h2 id="tema7">Robótica y Automatización</h2>
+        <p>
+La robótica y la automatización son dos conceptos relacionados que se utilizan para realizar tareas que normalmente hacen los humanos. 
+Robótica 
+La robótica es el desarrollo de aplicaciones para robots.
+Los robots se utilizan en aplicaciones como inspección de calidad, ensamblaje y empacado.
+Los robots pueden ser tradicionales o colaborativos.
+Automatización
+La automatización es el diseño de sistemas y máquinas para realizar tareas. 
+La automatización industrial utiliza computadoras, sistemas de control y tecnología de la información. 
+La automatización robótica de los procesos (RPA) utiliza robots de software para realizar tareas repetitivas. 
+Beneficios
+La automatización y la robótica pueden mejorar la eficiencia, la velocidad, la calidad y el rendimiento. 
+La RPA puede ayudar a las empresas a funcionar de manera más eficiente. 
+La RPA puede permitir que los empleados se centren en tareas más estratégicas. 
+La automatización y la robótica pueden reducir accidentes y errores. 
+Tipos de automatización Automatización fija, Automatización programable, Automatización flexible. 
+            ...</p>
+        <img src="https://via.placeholder.com/500" alt="Robótica y Automatización">
+
+        <h2 id="tema8">Realidad Virtual y Aumentada</h2>
+        <p>Estas tecnologías están transformando el entretenimiento, la educación y el diseñoLa realidad aumentada mejora las experiencias al agregar componentes virtuales como imágenes digitales, gráficos o sensaciones como una nueva capa de interacción con el mundo real. En contraste, la realidad virtual crea su propio mundo, que está completamente generado e impulsado por ordenador.
+Realidad virtual
+Crea un entorno completamente virtual, donde el usuario se sumerge en una experiencia digital. 
+Reemplaza lo real por un contenido 100% virtual. 
+Permite ingresar a juegos, escenarios y ambientes, donde el usuario interactúa con el contenido digital. 
+Realidad aumentada 
+Mejora el mundo real al superponer elementos virtuales.
+Incluye componentes digitales en el mundo físico que nos rodea.
+Proyecta información (como imágenes, gráficos, personajes, textos) en el mundo real.
+Aplicaciones
+La RV se puede usar para ingresar a juegos, escenarios y ambientes. 
+La RA se puede usar para colocar productos en un espacio real, probar virtualmente productos de maquillaje, entre otros. 
+Dispositivos 
+La RV requiere de dispositivos específicos.
+La RA se puede acceder desde diversos dispositivos, como teléfonos móviles.
+Transformación de sectores 
+La RV y la RA están transformando sectores como el entretenimiento, la educación o la medicina.
+        ...</p>
+        <img src="https://via.placeholder.com/500" alt="Realidad Virtual y Aumentada">
+        
+
+        <h2 id="tema9">Energías Renovables y Tecnología</h2>
+        <p>Las nuevas tecnologías energías renovables están transformando el sector de la energía y allanando el camino hacia un futuro más sostenible. Estas innovaciones no solo ofrecen ventajas ambientales y económicas, sino que también permiten una mayor eficiencia y optimización en la generación y el consumo de energía.Energías renovables 
+Son fuentes de energía que se renuevan más rápido de lo que se consumen.
+Son abundantes y se encuentran en cualquier entorno.
+No emiten gases de efecto invernadero.
+Se les conoce también como energías limpias o verdes.
+Ayudan a disminuir enfermedades relacionadas con la contaminación.
+Reducen la necesidad de industrias extractivas.
+        ...</p>
+        <img src="https://via.placeholder.com/500" alt="Energías Renovables y Tecnología">
+
+        <h2 id="tema10">El Futuro de la Tecnología</h2>
+        <p>¿Qué nos espera en el futuro? Desde la computación cuántica hasta la exploración espacial. El futuro de la tecnología es emocionante y desafiante. Las posibilidades son infinitas, desde la creación de sociedades más conectadas y eficientes hasta avances médicos que mejorarán la calidad de vida.Tendencias tecnológicas emergentes
+Inteligencia artificial (IA)
+La IA y el big data transforman la manera de interactuar con la tecnología y de tomar decisiones. 
+Blockchain
+La tecnología blockchain permite certificar la autoría de obras digitales y está relacionada con las criptomonedas. 
+Computación cuántica
+La computación cuántica es una de las tecnologías emergentes que se espera tenga aplicaciones comerciales importantes en los próximos años. 
+Realidad virtual y aumentada
+La realidad virtual y aumentada permiten experiencias inmersivas que redefinen la forma en que interactuamos con el mundo. 
+5G
+La 5G ofrece un gran ancho de banda y un tiempo de reacción más rápido que la 4G. 
+Desafíos y oportunidades
+La tecnología plantea desafíos relacionados con la ética, la privacidad y el impacto en el empleo. 
+Es necesario ajustar y optimizar las operaciones comerciales para ser más sostenibles. 
+Es fundamental considerar cómo queremos que sea nuestro futuro. 
+Impacto en México
+En México, se espera que el uso de la IA se expanda en sectores como la salud, la agricultura y el transporte. También se espera que el país expanda su capacidad instalada para generar energías renovables. 
+        ...</p> 
+        <img src="https://via.placeholder.com/500" alt="El Futuro de la Tecnología">
+<iframe src="https://www.youtube.com/embed/VIDEO_ID_6" allowfullscreen></iframe>
+    </section>
+</div>
+
+</body>
+</html>
